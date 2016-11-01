@@ -6,6 +6,11 @@ Business Data Set is collected from Google Local and Yelp API by the graduate st
 Business Categories reviewed frequently near CalStateLA, USC, UCLA.
 ![Image of Result Map](https://github.com/hipic/biz_data_LA/blob/master/nearCampusBizSchools.JPG)
 
+Business Categories reviewed frequently near CalStateLA, USC, UCLA by [HiPIC](http://web.calstatela.edu/centers/hipic/) of CalStateLA under Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/)'s guidance.
+
 Tutorial pdf file: biz_analysis_LA_v4.2.pdf
 
 ipynb Code in Spark: biz_analysis_LA.ipynb
+
+**This tutorial is added to [Databricks](www.databricks.com)'s [Databricks Training](https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html).**
+
