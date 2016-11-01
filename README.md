@@ -12,5 +12,5 @@ Tutorial pdf file: biz_analysis_LA_v4.2.pdf
 
 ipynb Code in Spark: biz_analysis_LA.ipynb
 
-**This tutorial is added to [Databricks](www.databricks.com)'s [Databricks Training](https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html).**
+**This tutorial is added to [Databricks](http://www.databricks.com)'s [Databricks Training](https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html).**
 
