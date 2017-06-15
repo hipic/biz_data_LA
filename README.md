@@ -1,4 +1,4 @@
-1# HiPIC Data Science
+.1# HiPIC Data Science
 
 **Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016**
 : Business Data Set is collected from Google Local and Yelp API by the graduate students, Sridhar reddy Puli (spuli@calstatela.edu), Ram Dharan Donda (rdonda@calstatela.edu), Goutham kumar Pola (gpola@calstatela.edu) and Vinay Chennupati (vchennu@calstatela.edu) at Dept of Computer Information Systems, California State University Los Angeles on Summer 2016
@@ -20,7 +20,7 @@ ipynb Code in Spark: biz_analysis_LA.ipynb
 
 **This tutorial is added to [Databricks](http://www.databricks.com)'s [Databricks Training](https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html).**
 
-# Section 2.1 Predicting popularity of Yelp Business using Spark Machine Learning, 2017
+# Section 2.1. Predicting popularity of Yelp Business using Spark Machine Learning, 2017
 
 To predict the popularity of the business we defined the popular business to have stars greater than 3 and unpopular business to have stars less than 3. To select the feature columns and have the accurate prediction for the popularity of the business we chose the food category. All the attribute columns related to the food category like good for breakfast, lunch, dinner, take out, delivery, parking, alcohol, Wi-Fi, waiter service, wheelchair and noise level are considered as feature columns. We categorize all the columns for the classification models like Two Class Logistic regression and Two Class Boosted Decision Tree.
 
@@ -30,7 +30,7 @@ The detail implementation of two class logistic regression in Spark ML using Tra
 
 Spark Code: Classification-Food.md
 
-# Section 2.2 Creating a Recommendation Model to Predict the Stars Given to a Category by a User, 2017 
+# Section 2.2. Creating a Recommendation Model to Predict the Stars Given to a Category by a User, 2017 
 
 The goal of the recommender is to provide Yelp users with recommendations for business categories based on their previous business ratings, as well as the business ratings of other users. The model has a feature to predict the future ratings by user for a category. 
 
