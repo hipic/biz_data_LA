@@ -30,7 +30,7 @@ The detail implementation of two class logistic regression in Spark ML using Tra
 
 Spark Code: Classification-Food.md
 
-# Section 2.2. Creating a Recommendation Model for Recommending a Category to a User, 2017 
+# Section 2.2. Applying Collaborative Filtering to Create a Recommendation Model for a Business Category to a User, 2017 
 
 The goal of the recommender is to provide Yelp users with recommendations for business categories based on their previous business ratings, as well as the business ratings of other users. The model has a feature to predict the future ratings by user for a category. 
 
