@@ -30,12 +30,12 @@ The detail implementation of two class logistic regression in Spark ML using Tra
 
 Spark Code: Classification-Food.md
 
-# Section 2.2. Creating a Recommendation Model to Predict the Stars Given to a Category by a User, 2017 
+# Section 2.2. Creating a Recommendation Model for Recommending a Category to a User, 2017 
 
 The goal of the recommender is to provide Yelp users with recommendations for business categories based on their previous business ratings, as well as the business ratings of other users. The model has a feature to predict the future ratings by user for a category. 
 
 Initially, in Azure, SQL transformation was conducted to select the average number of stars that each user has given to a category. The new dataset was saved under the name "reviewstar.csv" and transfered to Spark.
 
-The cleaned and transformed data contains four columns: user_id, category, review_count, stars. User_id and category are selected as features and stars is selected as label. The dataset is split to train and test fractions by .7 to .3 ratio. We have used ALS (Alternating Least Squares) algorithm to build the recommender. Additianaly, we’ve defined parameters and used fit method to train the model. Then we test the model to see the recommended category for each user. 
+The cleaned and transformed data contains four columns: user_id, category, review_count, stars. User_id and category are selected as features and stars is selected as label. The dataset is split to train and test fractions by .7 to .3 ratio. We have used ALS (Alternating Least Squares) algorithm to build the recommender. Additianaly, we’ve defined parameters and used fit method to train the model. Then we test the model to predict the stars that a particular user will give to a particular category. Based on that prediction, we recommend a category to each user. 
 
 Spark Code: Collaborative+Filtering+Recommender+Tutorial .md 
