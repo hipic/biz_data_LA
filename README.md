@@ -51,4 +51,4 @@ Cluster analysis divides data into groups (clusters) that are meaningful, useful
 
 Yelp is widely used to review and check reviews, mostly for services and food business. We decided to work with the food related business and filtered the dataset for such business. The food data includes feature columns like stars, review_count, and categorized columns describing whether the restaurant is good for breakfast, dinner, lunch or take-out. The latter attributes describing the food business are chosen as features. The model clusters the food business into 5 cluster with appropriate center points, based on the count of reviews each business has received. For example, review_count from 1 to 80 were put in one cluster, 81-200 in another, etc. By comparing the distance from center in SparkML, we got a good result in SparkML. The maximum distance of the the data points from the center is 9.77.
 
-Spark Code: [Cluster-Food.md](https://github.com/hipic/biz_data_LA/blob/master/Spark%20ML%20-%20Cluster/Cluster-Food.md)
+Spark Code: [Cluster-Food.md](https://github.com/hipic/biz_data_LA/blob/master/Spark%20ML%20-%20Clustering/Cluster-Food.md)
