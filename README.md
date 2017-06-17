@@ -10,6 +10,9 @@ Business Categories reviewed frequently near CalStateLA, USC, UCLA by [HiPIC](ht
 **Section 2.1. Applying Collaborative Filtering to Create Recommendations for a Business Category to Each User, 2017**
 : This Section is a part of Machine Learning Project by graduate student [Ovanes H. Mikaelian](https://www.linkedin.com/in/hovik-mikaelian-93a257a3/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles in Spring 2017.
 
+**Section 2.2 Clustering Food related Business in Yelp using Spark Machine Learning, 2017**
+: This Section is a part of Machine Learning Project by [Ruchi Singh](https://www.linkedin.com/in/ruchi-singh-68015945/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles on Spring 2017.
+
 # Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016
 Business data in Los Angeles is collected using Yelp and Google Local API and it is analyzed per near CalStateLA, USC, UCLA using Hadoop and Spark
 
@@ -41,3 +44,11 @@ Initially, in Azure, SQL transformation was conducted to select the average numb
 The cleaned and transformed data contains four columns: user_id, category, review_count, stars. User_id and category are selected as features and stars is selected as label. The dataset is split to train and test fractions by .7 to .3 ratio. We have used ALS (Alternating Least Squares) algorithm to build the recommender. Also, we’ve defined parameters and used fit method to train the model. Then we test the model to predict the stars that a particular user will give to a particular category. Based on that prediction, we recommend a category to each user. 
 
 Spark Code: [Collaborative+Filtering+Recommender+Tutorial.md](https://github.com/hipic/biz_data_LA/blob/master/Spark%20ML%20-%20Recommender/Collaborative%2BFiltering%2BRecommender%2BTutorial%20.md)
+
+## Section 2.2. Clustering Food related Business in Yelp using Spark Machine Learning, 2017
+
+Cluster analysis divides data into groups (clusters) that are meaningful, useful or both. Clustering can be a useful starting point for other purposes like data summarization and can be used for statistics, patter recognition, information retrieval, machine learning and data mining.
+
+Yelp is widely used to review and check reviews, mostly for services and food business. We decided to work with the food related business and filtered the dataset for such business. The food data includes feature columns like stars, review_count, and categorized columns describing whether the restaurant is good for breakfast, dinner, lunch or take-out. The latter attributes describing the food business are chosen as features. The model clusters the food business into 5 cluster with appropriate center points, based on the count of reviews each business has received. For example, review_count from 1 to 80 were put in one cluster, 81-200 in another, etc. By comparing the distance from center in SparkML, we got a good result in SparkML. The maximum distance of the the data points from the center is 9.77.
+
+Spark Code: [Cluster-Food.md](https://github.com/hipic/biz_data_LA/blob/master/Spark%20ML-%20Cluster/Cluster-Food.md)
