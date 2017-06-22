@@ -1,4 +1,4 @@
-# HiPIC Data Science
+# Data and Predictive Analysis in Spark on Databricks @ (HiPIC)[http://www.calstatela.edu/centers/hipic] 
 
 **Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016**
 : Business Data Set is collected from Google Local and Yelp API by the graduate students, Sridhar reddy Puli (spuli@calstatela.edu), Ram Dharan Donda (rdonda@calstatela.edu), Goutham kumar Pola (gpola@calstatela.edu) and Vinay Chennupati (vchennu@calstatela.edu) at Dept of Computer Information Systems, California State University Los Angeles on Summer 2016
@@ -12,6 +12,9 @@ Business Categories reviewed frequently near CalStateLA, USC, UCLA by [HiPIC](ht
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Section 2.2 Clustering Food related Business in Yelp using Spark Machine Learning, 2017**
    This Section is a part of Machine Learning Project by [Ruchi Singh](https://www.linkedin.com/in/ruchi-singh-68015945/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles on Spring 2017.
+
+***
+This site is built under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at (Dept of Computer Information Systems)[www.calstatela.edu/business/is], (California State University Los Angeles)[http://www.calstatela.edu/] on Summer 2016 and Spring 2017.
 
 ### Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016
 Business data in Los Angeles is collected using Yelp and Google Local API and it is analyzed per near CalStateLA, USC, UCLA using Hadoop and Spark
