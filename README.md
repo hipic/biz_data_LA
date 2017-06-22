@@ -1,6 +1,6 @@
 # Data and Predictive Analysis in Spark on Databricks @ [HiPIC](http://www.calstatela.edu/centers/hipic) 
 
-This site is built under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at (Dept of Computer Information Systems)[www.calstatela.edu/business/is], (California State University Los Angeles)[http://www.calstatela.edu/] on Summer 2016 and Spring 2017.
+This site is built under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at [Dept of Computer Information Systems](www.calstatela.edu/business/is), [California State University Los Angeles](http://www.calstatela.edu/) on Summer 2016 and Spring 2017.
 
 **Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016**
 : Business Data Set is collected from Google Local and Yelp API by the graduate students, Sridhar reddy Puli (spuli@calstatela.edu), Ram Dharan Donda (rdonda@calstatela.edu), Goutham kumar Pola (gpola@calstatela.edu) and Vinay Chennupati (vchennu@calstatela.edu) at Dept of Computer Information Systems, California State University Los Angeles on Summer 2016
