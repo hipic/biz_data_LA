@@ -19,9 +19,9 @@ Business data in Los Angeles is collected using Yelp and Google Local API and it
 Business Categories reviewed frequently near CalStateLA, USC, UCLA.
 ![Image of Result Map](https://github.com/hipic/biz_data_LA/blob/master/nearCampusBizSchools.JPG)
 
-Tutorial pdf file: biz_analysis_LA_v4.2.pdf
+Tutorial pdf file: [biz_analysis_LA_v4.2.pdf](https://github.com/hipic/biz_data_LA/blob/master/biz_analysis_LA_v4.2.pdf)
 
-ipynb Code in Spark: biz_analysis_LA.ipynb
+ipynb Code in Spark: [biz_analysis_LA.ipynb](https://github.com/hipic/biz_data_LA/blob/master/biz_analysis_LA.ipynb)
 
 **This tutorial is added to [Databricks](http://www.databricks.com)'s [Databricks Training](https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html).**
 
