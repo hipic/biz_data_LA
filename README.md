@@ -7,10 +7,10 @@ Business Categories reviewed frequently near CalStateLA, USC, UCLA by [HiPIC](ht
 **Section 2. Predicting popularity of Yelp Business using Spark Machine Learning, 2017**
 : This Section is a part of Machine Learning Project by [Ruchi Singh](https://www.linkedin.com/in/ruchi-singh-68015945/) and [Ovanes H. Mikaelian](https://www.linkedin.com/in/hovik-mikaelian-93a257a3/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles on Spring 2017.
 
-## **Section 2.1. Applying Collaborative Filtering to Create Recommendations for a Business Category to Each User, 2017**
+##### **Section 2.1. Applying Collaborative Filtering to Create Recommendations for a Business Category to Each User, 2017**
 : This Section is a part of Machine Learning Project by graduate student [Ovanes H. Mikaelian](https://www.linkedin.com/in/hovik-mikaelian-93a257a3/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles in Spring 2017.
 
-## **Section 2.2 Clustering Food related Business in Yelp using Spark Machine Learning, 2017**
+##### **Section 2.2 Clustering Food related Business in Yelp using Spark Machine Learning, 2017**
 : This Section is a part of Machine Learning Project by [Ruchi Singh](https://www.linkedin.com/in/ruchi-singh-68015945/) under the guidance of Prof [Jongwook Woo](http://web.calstatela.edu/faculty/jwoo5/) at Dept of Computer Information Systems, California State University Los Angeles on Spring 2017.
 
 # Section 1. Business Data Analysis near CalStateLA, USC, UCLA using Spark SQL in Los Angeles, 2016
