@@ -1,5 +1,5 @@
 # Data and Predictive Analysis in Spark on Databricks @ [BigDAI/HiPIC](http://www.calstatela.edu/centers/hipic) 
-##   BigDAI (Big Data AI Center) / HiPIC (High-Performance Information Computing Center)
+##   BigDAI (Big Data AI) / HiPIC (High-Performance Information Computing Center)
 
 This site is built under the guidance of Prof [Jongwook Woo](http://www.calstatela.edu/faculty/jongwook-woo) at [Dept of Computer Information Systems](www.calstatela.edu/business/is), [California State University Los Angeles](http://www.calstatela.edu/) on Summer 2016 and Spring 2017.
 
